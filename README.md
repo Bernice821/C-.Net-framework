@@ -1,4 +1,4 @@
-# C-.Net-framework-
+# C#.Net-framework-
 雙人連線記憶配對遊戲
 
 使用visual studio 的C# .Net Framework製作。
